@@ -21,6 +21,16 @@ Faculty of Engineering, University of Porto (FEUP)
     <td><a href="https://github.com/ritaleite03/FEUP-MEIC-AC/tree/main/project_1">Project</a></td>
   </tr>
   <tr>
+    <td>CPD</td>
+    <td>Multiplication Analysis Project</td>
+    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-CPD/tree/main/assign1">Project</a></td>
+  </tr>
+  <tr>
+    <td>CPD</td>
+    <td>Concurrent Hangman Game</td>
+    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-CPD/tree/main/assign2">Project</a></td>
+  </tr>
+  <tr>
     <td>CPM</td>
     <td>Smart Supermarket System</td>
     <td><a href="https://github.com/ritaleite03/FEUP-MEIC-CPM/tree/main/project_1">Project</a></td>
