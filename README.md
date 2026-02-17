@@ -31,6 +31,16 @@ Faculty of Engineering, University of Porto (FEUP)
     <td><a href="https://github.com/ritaleite03/FEUP-LEIC-CPD/tree/main/assign2">Project</a></td>
   </tr>
   <tr>
+    <td>DA</td>
+    <td>Railway Network Management Tool</td>
+    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-DA/tree/main/project1">Project</a></td>
+  </tr>
+  <tr>
+    <td>DA</td>
+    <td>Travelling Salesman Problem Solver</td>
+    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-DA/tree/main/project2">Project</a></td>
+  </tr>  
+  <tr>
     <td>CPM</td>
     <td>Smart Supermarket System</td>
     <td><a href="https://github.com/ritaleite03/FEUP-MEIC-CPM/tree/main/project_1">Project</a></td>
