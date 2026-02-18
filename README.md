@@ -24,6 +24,26 @@ Faculty of Engineering, University of Porto (FEUP)
     </td>
     <td><a href="https://github.com/ritaleite03/FEUP-MEIC-AC/tree/main/project_1">Project</a></td>
   </tr>
+  
+  <tr>
+    <td>CG</td><td>Bee Pollination Behavior Simulation</td>
+    <td>
+      <p align="center">
+        <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-CG/tree/main/project">Project</a></td>
+  </tr>
+  
+  <tr>
+    <td>COMP</td><td>Simple Compiler</td>
+    <td>
+      <p align="center">
+        <img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+      </p>
+    </td>
+      <td><a href="https://github.com/ritaleite03/FEUP-LEIC-COMP/tree/main/project">Project</a></td>
+  </tr>
   <tr>
     <td>CPD</td><td>Multiplication Analysis Project</td>
     <td>
@@ -44,24 +64,6 @@ Faculty of Engineering, University of Porto (FEUP)
     <td><a href="https://github.com/ritaleite03/FEUP-LEIC-CPD/tree/main/assign2">Project</a></td>
   </tr>
   <tr>
-    <td>DA</td><td>Railway Network Management Tool</td>
-    <td>
-      <p align="center">
-        <img height="20" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-      </p>
-    </td>
-    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-DA/tree/main/project1">Project</a></td>
-  </tr>
-  <tr>
-    <td>DA</td><td>Travelling Salesman Problem Solver</td>
-    <td>
-      <p align="center">
-        <img height="20" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-      </p>
-    </td>
-    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-DA/tree/main/project2">Project</a></td>
-  </tr>  
-  <tr>
     <td>CPM</td><td>Smart Supermarket System</td>
     <td>
       <p align="center">
@@ -79,6 +81,44 @@ Faculty of Engineering, University of Porto (FEUP)
     </td>
     <td><a href="https://github.com/ritaleite03/FEUP-MEIC-CPM/tree/main/project_2">Project</a></td>
   </tr>
+  <tr>
+    <td>DA</td><td>Railway Network Management Tool</td>
+    <td>
+      <p align="center">
+        <img height="20" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+      </p>
+    </td>
+    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-DA/tree/main/project1">Project</a></td>
+  </tr>
+  <tr>
+    <td>DA</td><td>Travelling Salesman Problem Solver</td>
+    <td>
+      <p align="center">
+        <img height="20" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+      </p>
+    </td>
+    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-DA/tree/main/project2">Project</a></td>
+  </tr>  
+
+  <tr>
+    <td>IART</td><td>ColorMatch Puzzle</td>
+    <td>
+      <p align="center">
+        <img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-IART/tree/main/project1">Project</a></td>
+  </tr>
+  <tr>
+    <td>IART</td><td>Breast Mass Classifier</td>
+    <td>
+      <p align="center">
+        <img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td><a href="https://github.com/ritaleite03/FEUP-LEIC-IART/tree/main/project2">Project</a></td>
+  </tr>
+  
   <tr>
     <td>PLN</td><td>Traditional NLP Text Classifier</td>
     <td>
